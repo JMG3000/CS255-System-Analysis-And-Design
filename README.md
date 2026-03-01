@@ -1,10 +1,11 @@
-# CS255-System-Analysis-And-Design
+# Southern New Hampshire University
+## CS-255: System Analysis and Design
 
 ### This repository contains a project created to demonstrate the skills and techniques I developed in CS‑255: System Analysis and Design.
 
 The DriverPass project centers on designing a comprehensive system for a client seeking to improve how students prepare for their driver’s license exams. The client required a web‑based platform that allows students to register for driving packages, schedule on‑the‑road lessons, take practice tests based on DMV materials, and track their overall progress. The system also needed robust administrative tools for managing users, scheduling instructors and vehicles, maintaining up‑to‑date DMV content, and generating detailed reports.
 
-The primary objective was to design a secure, scalable, and user‑friendly solution. One that supports multiple user roles—including students, instructors, administrators, and IT staff while also enabling real‑time scheduling and reliable data validation.
+The primary objective was to design a secure, scalable, and user‑friendly solution. One that supports multiple user roles; including students, instructors, administrators, and IT staf. It must also enable real‑time scheduling and reliable data validation at the same time.
 
 ### What I Did Particularly Well
 
@@ -12,7 +13,7 @@ I believe I performed particularly well in translating business requirements int
 
 ### One Area I Would Revise
 
-If I could revise one part of my work, I would further refine the objectives and goals section in the Business Requirements Document. Earlier drafts blended measurable goals with functional statements. I would improve this by ensuring objectives remain outcome-focused and strategic, while functional requirements clearly use structured phrasing (e.g., “The system shall…”). I would also expand role-based system component descriptions to ensure each actor’s purpose is unmistakably defined.
+If I could revise one part of my work, I would further refine the objectives and goals section in the Business Requirements Document. Earlier drafts blended measurable goals with functional statements. I would improve this by ensuring objectives remain outcome-focused and strategic, while functional requirements clearly use structured phrasing such as “The system shall…”. I would also expand role-based system component descriptions to ensure each actor’s purpose is unmistakably defined.
 
 ### Interpreting and Implementing User Needs
 
